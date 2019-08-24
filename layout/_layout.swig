@@ -80,4 +80,6 @@
     {{ partial('_scripts/pjax.swig', {}, {cache: theme.cache.enable}) }}
   {%- endif %}
 </body>
+<!-- 页面点击小红心 -->
+<script type="text/javascript" src="/js/clicklove.js"></script>
 </html>
