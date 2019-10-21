@@ -2,7 +2,7 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "textures/default-costume.png"
+        "https://zhouhongfa-blog-cos-1252897212.cos.ap-guangzhou.myqcloud.com/images/201910151603.png"
     ],
     "layout":{
         "center_x":0.0,
